@@ -1,12 +1,5 @@
-//
-//  Constants.swift
-//  GradientProgressBar
-//
-//  Created by Felix Mau on 26.08.19.
-//  Copyright © 2019 Felix Mau. All rights reserved.
-//
-
 import UIKit
+import CoreGraphics
 
 public extension UIColor {
     /// Default colors for components.
